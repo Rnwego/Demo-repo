@@ -36,8 +36,6 @@ git log            # View commit history
 
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [GitHub Skills](https://skills.github.com/)
-![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-
 
 ## Final Thoughts
 
